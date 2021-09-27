@@ -1,0 +1,4 @@
+1. Install requirements packages from requirements.txt 
+2. Run app.py 
+3. After that, you can see in terminal "Model loaded. Check http://127.0.0.1:5000/"
+4. And Click or Open in Browser--> http://127.0.0.1:5000/
